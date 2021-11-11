@@ -1,4 +1,4 @@
-# SyntectCss
+# SyntectCSS
 
 Convert Textmate `.tmtheme` themes to `css` based on `syntect` keywords.
 
